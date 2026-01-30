@@ -23,3 +23,4 @@ Exploring simple algorithms and control flow
 | `speakpracpy.py`   | (If included) Demonstrates text-to-speech or similar logic |
 | `module1.py`       | Example of Python module usage                             |
 | `no.py`            | (Example script—add description as needed)                 |
+| `Image Converter: JPG/PNG to WEBP`            | A simple Python tool to convert .jpg, .jpeg, and .png images into .webp format for better compression and quality.)                 |
